@@ -1,0 +1,54 @@
+/* Write your CSS here */
+
+.background {
+  background-color: #fff;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 80px;
+}
+
+.center {
+  text-align: center;
+}
+
+.google {
+  width: 28vw;
+  height: 20vh;
+  margin-bottom: 30px;
+}
+
+.search-suggestions {
+  border: 3px solid #bfbfbf;
+  border-radius: 15px;
+}
+.magnify-search {
+  border-radius: 6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10px;
+}
+
+.magnify-search img {
+  height: 30px;
+  width: 30px;
+}
+
+input {
+  width: 35vw;
+  color: #64748b;
+  font-family: 'roboto';
+  font-size: 18px;
+  font-weight: 500;
+  border: none;
+  outline: none;
+}
+
+ul {
+  list-style-type: none;
+  padding-right: 30px;
+  padding-left: 20px;
+}

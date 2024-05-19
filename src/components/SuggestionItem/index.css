@@ -1,0 +1,25 @@
+/* Write your CSS here */
+
+.list-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+p {
+  font-family: 'roboto';
+  font-size: 17px;
+  font-weight: 500;
+  color: #475569;
+}
+
+img {
+  height: 30px;
+  width: 30px;
+}
+
+button {
+  background: transparent;
+  border: 0px;
+  outline: 0px;
+}
